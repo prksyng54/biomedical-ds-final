@@ -1,4 +1,4 @@
-# Final Project for Biomedical Data Science Course
+# Final Project of Biomedical Data Science Course
 
   The dataset consists of multiple types of sequencing data (e.g. chip-seq, bisulfite-seq, and RNA-seq) with the target variable being standardized RNA values from RNA-seq. The dataset is formatted as a gene by modification features (55, 000 x 16) matrix where each entry in the data frame is the relative amount of each modification in each gene. 
   
